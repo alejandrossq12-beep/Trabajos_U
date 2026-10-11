@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Jefe
+comment1.params=jugador\ oleada
+comment1.target=Jefe(Jugador,\ int)
+comment2.params=
+comment2.target=void\ morir()
+numComments=3

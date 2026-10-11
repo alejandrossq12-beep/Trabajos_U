@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EnemigoPesado
+comment1.params=
+comment1.target=void\ morir()
+comment2.params=jugador
+comment2.target=EnemigoPesado(Jugador)
+numComments=3

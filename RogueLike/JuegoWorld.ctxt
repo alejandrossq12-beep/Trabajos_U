@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=JuegoWorld
+comment1.params=
+comment1.target=JuegoWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=puntos
+comment3.target=void\ sumarPuntaje(int)
+comment4.params=
+comment4.target=int\ getPuntaje()
+comment5.params=
+comment5.target=void\ gameOver()
+numComments=6
