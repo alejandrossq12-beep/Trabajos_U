@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Mundo
+comment1.params=
+comment1.target=Mundo()
+comment2.params=
+comment2.target=void\ prepararMundo()
+comment3.params=desplazamiento
+comment3.target=void\ desplazarEscenario(int)
+numComments=4

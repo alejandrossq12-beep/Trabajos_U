@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Jugador
+comment1.params=marcador
+comment1.target=Jugador(Marcador)
+comment10.params=izquierda
+comment10.target=void\ animarCaminata(boolean)
+comment2.params=
+comment2.target=void\ cargarImagenes()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ recolectarMonedas()
+comment5.params=
+comment5.target=void\ comprobarMuertePorCaida()
+comment6.params=
+comment6.target=void\ controlarMovimientoHorizontal()
+comment7.params=
+comment7.target=void\ controlarSalto()
+comment8.params=
+comment8.target=void\ actualizarSalto()
+comment9.params=
+comment9.target=void\ actualizarAnimacion()
+numComments=11
